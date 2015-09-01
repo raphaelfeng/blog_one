@@ -1,3 +1,7 @@
+---
+title: 8 Steps to Migrating from JavaScript to TypeScript
+---
+
 We have been moving our Browser Agent to TypeScript recently.
 It’s fun to learn a new language and to see how it can benefit us.
 
@@ -22,7 +26,7 @@ TypeScript for these reasons:
 
 ## 1. Prepare Knowledge
 * [TypeScript Official Web Site](http://www.typescriptlang.org/) is the best start
-* [TypeScript Succinctly/](https://www.stevefenton.co.uk/Content/TypeScript-Succinctly/) is a good book for free
+* [TypeScript Succinctly](https://www.stevefenton.co.uk/Content/TypeScript-Succinctly/) is a good book for free
 If you are alraedy a JavaScript developer, it feels smooth to pick the knowledge up.
 
 ## 2. Rename File
