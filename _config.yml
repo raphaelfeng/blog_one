@@ -32,3 +32,5 @@ version: "1.1.0"
 custom_header: true
 custom_nav_footer: false
 reverse: false
+
+highlighter: pygments
