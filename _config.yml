@@ -34,3 +34,6 @@ custom_nav_footer: false
 reverse: false
 
 highlighter: pygments
+
+#Plugins
+gems: ["jekyll-paginate"]
